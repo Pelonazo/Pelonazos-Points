@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lSROjl/Q+vg78Ox8eZGt9u/gwTqczZC7r2ugHDvvFg1SEnX16R2lajBtfVk6HUGcLeqft78qVIsJRU+WvceJHQ==",
+  "success": true,
+  "projectFilePath": "/Users/pelon/Desktop/C#/PelonazosPoints/PelonazosPoints.csproj",
+  "expectedPackageFiles": [
+    "/Users/pelon/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/Users/pelon/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512",
+    "/Users/pelon/.nuget/packages/restoremonarchy.rocketredist/3.24.3/restoremonarchy.rocketredist.3.24.3.nupkg.sha512",
+    "/Users/pelon/.nuget/packages/restoremonarchy.unturnedredist/3.24.3/restoremonarchy.unturnedredist.3.24.3.nupkg.sha512"
+  ],
+  "logs": []
+}

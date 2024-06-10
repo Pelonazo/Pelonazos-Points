@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/pelon/Desktop/C#/PelonazosPoints/PelonazosPoints.csproj": {}
+  },
+  "projects": {
+    "/Users/pelon/Desktop/C#/PelonazosPoints/PelonazosPoints.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pelon/Desktop/C#/PelonazosPoints/PelonazosPoints.csproj",
+        "projectName": "PelonazosPoints",
+        "projectPath": "/Users/pelon/Desktop/C#/PelonazosPoints/PelonazosPoints.csproj",
+        "packagesPath": "/Users/pelon/.nuget/packages/",
+        "outputPath": "/Users/pelon/Desktop/C#/PelonazosPoints/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pelon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "RestoreMonarchy.RocketRedist": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[3.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
